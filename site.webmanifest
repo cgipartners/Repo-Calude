@@ -1,0 +1,11 @@
+{
+  "name": "CGI Partners - Contabilidad & Auditoría",
+  "short_name": "CGI Partners",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16233f",
+  "icons": [
+    { "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

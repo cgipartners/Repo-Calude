@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 640" role="img" aria-label="Ilustración corporativa CGI Partners">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#16233F"/>
+      <stop offset="100%" stop-color="#2c4472"/>
+    </linearGradient>
+    <linearGradient id="gold1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E7C874"/>
+      <stop offset="100%" stop-color="#A8802F"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="640" fill="url(#bg1)"/>
+  <g opacity="0.15" stroke="#ffffff" stroke-width="1">
+    <line x1="0" y1="120" x2="600" y2="120"/>
+    <line x1="0" y1="240" x2="600" y2="240"/>
+    <line x1="0" y1="360" x2="600" y2="360"/>
+    <line x1="0" y1="480" x2="600" y2="480"/>
+  </g>
+  <g transform="translate(120,150)">
+    <rect x="0" y="200" width="70" height="180" rx="6" fill="#ffffff" opacity="0.9"/>
+    <rect x="90" y="140" width="70" height="240" rx="6" fill="url(#gold1)"/>
+    <rect x="180" y="90" width="70" height="290" rx="6" fill="#ffffff" opacity="0.9"/>
+    <rect x="270" y="30" width="70" height="350" rx="6" fill="url(#gold1)" opacity="0.85"/>
+  </g>
+  <circle cx="470" cy="130" r="60" fill="#ffffff" opacity="0.08"/>
+  <circle cx="90" cy="90" r="34" fill="#ffffff" opacity="0.08"/>
+  <g transform="translate(90,470)" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.85">
+    <path d="M0,60 L60,10 L120,40 L200,-20 L280,20 L380,-40" />
+    <circle cx="380" cy="-40" r="6" fill="url(#gold1)" stroke="none"/>
+  </g>
+</svg>

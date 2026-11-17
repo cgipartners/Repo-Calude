@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 140" role="img" aria-labelledby="cgiMarkTitle">
+  <title id="cgiMarkTitle">CGI Partners</title>
+  <defs>
+    <linearGradient id="cgiGoldMark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E7C874"/>
+      <stop offset="50%" stop-color="#C9A24B"/>
+      <stop offset="100%" stop-color="#A8802F"/>
+    </linearGradient>
+  </defs>
+  <path d="M70,0 A70,70 0 1 0 70,140 A70,70 0 0 0 121,118.5 L100,97 A42,42 0 1 1 100,43 L121,21.5 A70,70 0 0 0 70,0 Z" fill="#16233F"/>
+  <circle cx="70" cy="70" r="24" fill="url(#cgiGoldMark)"/>
+  <g transform="translate(118,0)">
+    <path d="M70,0 A70,70 0 1 0 70,140 A70,70 0 0 0 121,118.5 L100,97 A42,42 0 1 1 100,43 L121,21.5 A70,70 0 0 0 70,0 Z" fill="#16233F"/>
+    <rect x="88" y="60" width="42" height="20" fill="#16233F"/>
+    <rect x="106" y="60" width="6" height="20" fill="url(#cgiGoldMark)"/>
+  </g>
+  <rect x="68" y="52" width="10" height="36" fill="url(#cgiGoldMark)"/>
+</svg>
